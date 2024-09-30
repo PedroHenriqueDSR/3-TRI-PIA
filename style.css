@@ -5,6 +5,6 @@
     --secondary-color: #635985;
     --font:"Nunito sans",sans-serif;
 }
-body{background-color: var(--bg-color)
-    color var(--primary-color)
+body{background-color: var(--bg-color):
+    color var(--primary-color);
     var(--font);
