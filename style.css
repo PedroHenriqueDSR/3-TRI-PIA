@@ -17,5 +17,10 @@ header{
      h1{
         font-size: 2rem;
         color: var(--bg-color);
-        font-weight: ;
+        font-weight: 400;
      }
+        nav{
+            display: center;
+            justify-content: ;
+            font-weight: 400;
+        }
