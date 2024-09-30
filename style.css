@@ -10,3 +10,8 @@ body{background-color: var(--bg-color);
     font-family: var(--font);
     height: 100vh;
     margin: 0;
+}
+header{
+     background-color: var(--primary-color);
+     text-align: center;
+}
