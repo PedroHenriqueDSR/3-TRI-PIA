@@ -33,6 +33,6 @@ header { background-color: var(--primary-color);
         }
         nav a:hover{
             text-decoration: underline;
-            text-transform: scale();
-            transition: ;
+            text-transform: scale(0.90);
+            transition: transform(0.1s);
         }
