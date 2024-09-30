@@ -11,16 +11,19 @@ body{background-color: var(--bg-color);
     height: 100vh;
     margin: 0;
 }
-header{
-     background-color: var(--primary-color);
-     text-align: center;}
+header { background-color: var(--primary-color);
+     text-align: center;
+    }
      h1{
         font-size: 2rem;
         color: var(--bg-color);
         font-weight: 400;
      }
         nav{
-            display: center;
-            justify-content: ;
+            display: flex;
+            justify-content: center;
             font-weight: 400;
+        }
+        nav{
+            text-decoration: none;
         }
