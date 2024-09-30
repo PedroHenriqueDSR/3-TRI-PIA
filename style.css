@@ -13,5 +13,4 @@ body{background-color: var(--bg-color);
 }
 header{
      background-color: var(--primary-color);
-     text-align: center;
-}
+     text-align: center;}
