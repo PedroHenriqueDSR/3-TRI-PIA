@@ -29,7 +29,7 @@ header {
             text-decoration: none;
             color: var(--bg-color);
             margin: 0rem 2rem 3rem 0rem ;
-            font-size: 12rem;
+            font-size: 05rem;
         }
         nav a:hover{
             text-decoration: underline;
