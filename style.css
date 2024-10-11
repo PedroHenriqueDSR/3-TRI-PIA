@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Noto+Color+Emoji&family=Noto+Serif+Old+Uyghur&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 :root {
-    --bg-color: #18122B;
-    --primary-color: #53497e;
-    --secondary-color: #5c559e;
+    --bg-color: #312f3a;
+    --primary-color: #777777;
+    --secondary-color: #e6e6e7d2;
     --font:"Nunito sans",sans-serif;
 }
 body{    background-color: var(--bg-color);
