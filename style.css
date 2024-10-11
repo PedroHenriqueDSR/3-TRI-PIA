@@ -14,7 +14,6 @@ body{background-color: var(--bg-color);
 header { background-color: var(--primary-color);
      text-align: center;
      padding: 1px;
-    }
      h1{
         font-size: 2rem;
         color: var(--bg-color);
@@ -33,6 +32,7 @@ header { background-color: var(--primary-color);
         }
         nav a:hover{
             text-decoration: underline;
-            text-transform: scale(0.90);
-            transition: transform(0.1s);
+            transform: scale(0.90);
+            transition: transform;
         }
+    }
