@@ -2,7 +2,7 @@
 :root {
     --bg-color: #18122B;
     --primary-color: #53497e;
-    --secondary-color: #66559e;
+    --secondary-color: #5c559e;
     --font:"Nunito sans",sans-serif;
 }
 body{background-color: var(--bg-color);
