@@ -11,7 +11,8 @@ body{background-color: var(--bg-color);
     height: 100vh;
     margin: 0;
 }
-header { background-color: var(--primary-color);
+header {
+     background-color: var(--primary-color);
      text-align: center;
      padding: 1px;
      h1{
@@ -24,7 +25,7 @@ header { background-color: var(--primary-color);
             justify-content: center;
             font-weight: 400;
         }
-        nav{
+        nav a {
             text-decoration: none;
             color: var(--bg-color);
             margin: 0rem 2rem 3rem 0rem ;
